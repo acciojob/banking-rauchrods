@@ -13,5 +13,6 @@ public class Main {
 
         CurrentAccount c1 = new CurrentAccount("bambu",10000,"ABCDDD");
         c1.validateLicenseId();
+
     }
 }
